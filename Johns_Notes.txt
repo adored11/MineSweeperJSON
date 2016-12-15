@@ -1,0 +1,4 @@
+START JETTY SERVER
+C:\Users\john\IdeaProjects\MineSweeperJSON>mvn jetty:run
+
+http://localhost:8080/WebApp1Servlet
